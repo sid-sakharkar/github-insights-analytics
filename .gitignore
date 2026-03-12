@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+.env
+.ipynb_checkpoints/
+venv/
+data/raw/
+outputs/

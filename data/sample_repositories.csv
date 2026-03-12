@@ -1,0 +1,11 @@
+repository,stars,forks,language,contributors,issues_open,pull_requests,commits,created_at
+tensorflow/tensorflow,180000,90000,C++,3000,1200,450,50000,2015-11-10
+pytorch/pytorch,70000,18000,Python,2500,800,300,35000,2016-09-18
+scikit-learn/scikit-learn,55000,25000,Python,2300,300,150,20000,2010-09-28
+pandas-dev/pandas,42000,18000,Python,2200,2000,400,45000,2008-01-01
+keras-team/keras,60000,15000,Python,1200,600,200,15000,2015-03-27
+fastapi/fastapi,65000,5000,Python,800,150,100,8000,2018-12-27
+django/django,75000,31000,Python,2800,200,300,30000,2008-07-21
+flask/flask,65000,16000,Python,1500,250,200,12000,2010-04-16
+requests/requests,50000,9500,Python,500,50,30,3000,2011-02-13
+matplotlib/matplotlib,18000,6500,Python,1300,800,200,25000,2003-08-05
